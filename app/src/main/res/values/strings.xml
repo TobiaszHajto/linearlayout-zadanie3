@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">loginAppAS</string>
+    <string name="header">Rejestruj konto</string>
+    <string name="etykieta1">Podaj e-mail:</string>
+    <string name="etykieta2">Podaj haslo:</string>
+    <string name="etykieta3">Powtorz haslo:</string>
+    <string name="zatwierdz">ZATWIERDZ</string>
+    <string name="witaj">Witaj ewa@poczta.pl</string>
+</resources>
